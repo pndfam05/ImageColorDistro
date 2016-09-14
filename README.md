@@ -8,6 +8,7 @@ This code uses statistical correlation to match identical and similar images acr
 The match is based upon pixel colors rather than the bits and bytes of the image file. It is immune to image orientation differences, metadata differences, and is robust against image resizing.
 
 Brian R Deering
+
 Cyber Crime Analyst
 
 805.889.1676
