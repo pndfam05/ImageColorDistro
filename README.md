@@ -10,7 +10,7 @@ The match is based upon pixel colors rather than the bits and bytes of the image
 2016-09-30
 Sorry it took me so long to get the code up on GitHub. The .png feature stopped working as intended. I've been diagnosing the cause but have yet to find a solution. Since this is a work in progress, a prototype, I thought I'd put out what I've got so far.
 
-I've also included the images I've used for testing.
+Test images are too large to upload to GitHub
 
 This is written in R code. R is an incredibly powerful statistical analysis program available to all. R can be downloaded from [https://www.r-project.org/]. R is not image processing software. It's being used here for purposes not otherwise intended. So expect some pain and slow performance. 
 
